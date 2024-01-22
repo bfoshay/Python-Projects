@@ -1,2 +1,2 @@
 # Python-Projects
-This repository contains some of my Python projects, particularly machine learning code in Python
+This repository contains a sampling of my Python projects, particularly machine learning code in Python
